@@ -1,3 +1,6 @@
 print("are you sure?")
 print("this is bad!")
 print("next station")
+print("next station1")
+print("next station2")
+print("next station3")
